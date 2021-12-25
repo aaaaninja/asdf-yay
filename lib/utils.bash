@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for yay.
-GH_REPO="https://github.com/aaaaninja/asdf-yay"
+GH_REPO="https://github.com/Jguer/yay"
 TOOL_NAME="yay"
 TOOL_TEST="yay --help"
 

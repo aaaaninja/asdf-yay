@@ -3,7 +3,7 @@
 # asdf-yay [![Build](https://github.com/aaaaninja/asdf-yay/actions/workflows/build.yml/badge.svg)](https://github.com/aaaaninja/asdf-yay/actions/workflows/build.yml) [![Lint](https://github.com/aaaaninja/asdf-yay/actions/workflows/lint.yml/badge.svg)](https://github.com/aaaaninja/asdf-yay/actions/workflows/lint.yml)
 
 
-[yay](https://github.com/aaaaninja/asdf-yay) plugin for the [asdf version manager](https://asdf-vm.com).
+[yay](https://github.com/Jguer/yay) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
